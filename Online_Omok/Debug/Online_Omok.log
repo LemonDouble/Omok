@@ -1,0 +1,12 @@
+﻿  main_code.cpp
+c:\users\raon\tracing\documents\visual studio 2015\projects\online_omok\online_omok\main_code.cpp(67): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\raon\tracing\documents\visual studio 2015\projects\online_omok\online_omok\main_code.cpp(80): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\raon\tracing\documents\visual studio 2015\projects\online_omok\online_omok\main_code.cpp(202): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: 'getch' 선언을 참조하십시오.
+c:\users\raon\tracing\documents\visual studio 2015\projects\online_omok\online_omok\main_code.cpp(205): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: 'getch' 선언을 참조하십시오.
+c:\users\raon\tracing\documents\visual studio 2015\projects\online_omok\online_omok\main_code.cpp(228): warning C4715: 'scan_keyboard': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  Online_Omok.vcxproj -> C:\Users\Raon\Tracing\Documents\Visual Studio 2015\Projects\Online_Omok\Debug\Online_Omok.exe
+  Online_Omok.vcxproj -> C:\Users\Raon\Tracing\Documents\Visual Studio 2015\Projects\Online_Omok\Debug\Online_Omok.pdb (Full PDB)
